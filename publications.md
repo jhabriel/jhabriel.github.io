@@ -39,3 +39,5 @@
 - Varela, J. (2014). Modelado y simulación del flujo unidimensional del flujo de fluidos en medios porosos. *Tesis presentada para obtener el grado de ingeniero químico por la Universidad Nacional de Asunción*. Tutores: Nogues, J. P. & Schaerer, C. E. [link](https://nidtec.pol.una.py/~cschaer/jv_Version_Corr.pdf)
 
 ## Posters
+
+- Varela, J. & Nogues, J. P & Schaerer, C. E. (2014). Upscaling of permeability in porous media. *Presented in the 3rd Conference of Computational Interdisciplinary Sciences of the Pan-American Association of Computational and Interdisciplinary Sciences*. **Winner of  best poster**. [link](http://dx.doi.org/10.13140/RG.2.2.10237.36329)
