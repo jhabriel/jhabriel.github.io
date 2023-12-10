@@ -20,7 +20,7 @@
 
 ## Conference proceedings
 
-- Gasda, Sarah and Aavatsmark, Ivar and Bohloli, Bahman and Hellevang, Helge and Nordbotten, Jan and Wangen, Magnus and Bjørnarå, Tore and Boon, Wietse and Fazeli, Hossein and Mannseth, Trond and Nooraiepour, Mohammad and Park, Joonsang and Skurtveit, Elin and Tveit, Svenn and van Noort, Reinier and Varela, Jhabriel and Viken, Inge and Thibeau, Sylvain, Protection of Caprock Integrity for Large-Scale CO2 Storage on the Norwegian Continental Shelf. 14th Greenhouse Gas Control Technologies Conference Melbourne 21-26 October 2018 (GHGT-14). [link](http://dx.doi.org/10.2139/ssrn.3365962)
+- Gasda, S. & Aavatsmark, I. & Bohloli, B. & Hellevang, H. & Nordbotten, J. M. & Wangen, M. & Bjørnarå, T. & Boon, W. & Fazeli, H. & Mannseth, T. & Nooraiepour, M. & Park, J. & Skurtveit, E. & Tveit, S. & van Noort, R. & Varela, J. & Viken, I. & Thibeau, S., Protection of Caprock Integrity for Large-Scale CO2 Storage on the Norwegian Continental Shelf. 14th Greenhouse Gas Control Technologies Conference Melbourne 21-26 October 2018 (GHGT-14). [link](http://dx.doi.org/10.2139/ssrn.3365962)
 
 - Oporto, L. C., Ramírez, D. A., Varela, J. D., & Schaerer, C. E. (2016). Analysis of contaminant transport under wind conditions on the surface of a shallow lake. Mecánica Computacional, 34(31), 2155-2163. [link](http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/5135/5067)
 
@@ -28,9 +28,11 @@
 
 ### Doctoral thesis
 
+- Varela, J. (2022). A posteriori error estimation and modeling of unsaturated flow in fractured porous media. *Thesis submitted to obtain the degree of Philosophiae Doctor (PhD) by the University of Bergen*. Supervisors: Keilegavlen, E. & Nordbotten, J. M. & Radu, F. A. [link](https://hdl.handle.net/11250/2997812)
+
 ### Master's thesis
 
-- Varela, J. (2018). 
+- Varela, J. (2018). Implementation of an MPFA/MPSA-FV solver for the unsaturated flow in deformable porous media. *Thesis submitted to obtain the degree of Master of Science (MSc) by the University of Bergen*. Supervisors: Nordbotten, J. M. & Keilegavlen, E. & Gasda S. [link](https://hdl.handle.net/1956/17905)
 
 ### Bachelor's thesis
 
