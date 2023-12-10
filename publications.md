@@ -40,4 +40,6 @@
 
 ## Posters
 
-- Varela, J. & Nogues, J. P & Schaerer, C. E. (2014). Upscaling of permeability in porous media. *Presented in the 3rd Conference of Computational Interdisciplinary Sciences of the Pan-American Association of Computational and Interdisciplinary Sciences*. **Winner of  best poster**. [link](http://dx.doi.org/10.13140/RG.2.2.10237.36329)
+- Varela, J. & Ahmed, E. & Keilegavlen, E. & Nordbotten, J. M. & Radu, F. A. A posteriori error estimates for hierarchical mixed-dimensional elliptic equations. *Presented in the FORCE field trip poster session at the University Museum*. Bergen, Norway, 2023. [link](https://www.dropbox.com/scl/fi/gphrqonteipp3ktp11jup/poster_posteriori_varela.pdf?rlkey=gia5orpdjd2sc3okks16oustp&dl=0)
+
+- Varela, J. & Nogues, J. P & Schaerer, C. E. (2014). Upscaling of permeability in porous media. *Presented in the 3rd Conference of Computational Interdisciplinary Sciences of the Pan-American Association of Computational and Interdisciplinary Sciences*. San Lorenzo, Paraguay, 2014. **Winner of  best poster**. San [link](http://dx.doi.org/10.13140/RG.2.2.10237.36329)
