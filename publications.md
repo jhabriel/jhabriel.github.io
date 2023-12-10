@@ -1,5 +1,3 @@
-# Publications
-
 ## Articles
 
 ### Published
@@ -16,7 +14,13 @@
 
 ## Book chapters
 
+- Varela, J., Gasda, S., Keilegavlen, E., & Nordbotten, J. (2021). A Finite-Volume-Based Module for Unsaturated Poroelasticity. In K. Lie & O. Møyner (Eds.), Advanced Modeling with the MATLAB Reservoir Simulation Toolbox (pp. 515-548). Cambridge: Cambridge University Press. https://doi:10.1017/9781009019781.019
+
 ## Conference proceedings
+
+- Gasda, Sarah and Aavatsmark, Ivar and Bohloli, Bahman and Hellevang, Helge and Nordbotten, Jan and Wangen, Magnus and Bjørnarå, Tore and Boon, Wietse and Fazeli, Hossein and Mannseth, Trond and Nooraiepour, Mohammad and Park, Joonsang and Skurtveit, Elin and Tveit, Svenn and van Noort, Reinier and Varela, Jhabriel and Viken, Inge and Thibeau, Sylvain, Protection of Caprock Integrity for Large-Scale CO2 Storage on the Norwegian Continental Shelf. 14th Greenhouse Gas Control Technologies Conference Melbourne 21-26 October 2018 (GHGT-14) , Available at SSRN: https://ssrn.com/abstract=3365962 or http://dx.doi.org/10.2139/ssrn.3365962
+
+- Oporto, L. C., Ramírez, D. A., Varela, J. D., & Schaerer, C. E. (2016). Analysis of contaminant transport under wind conditions on the surface of a shallow lake. Mecánica Computacional, 34(31), 2155-2163. http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/5135/5067
 
 ## Thesis
 
