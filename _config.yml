@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
+  - {file: "home.md", title: "Home"}
   - {url: "https://cv.conacyt.gov.py/publicar/cv?id=210889914d13ea549d0f2bf09f772101", title: "CV"}
   - {file: "publications.md", title: "Publications"}
   - {file: "research.md", title: "Research"}
