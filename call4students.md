@@ -1,6 +1,7 @@
-----------------------
-# Call for students
-----------------------
+---
+layout: page
+title: Llamado a estudiantes
+---
 
 ## Desarrollo del software KrySBAS
 
