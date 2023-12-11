@@ -1,7 +1,7 @@
 title: "Jhabriel Varela"
 author: "JV"
 description: "2023 - National University of Asunción"
-# permalink: /:title/
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
