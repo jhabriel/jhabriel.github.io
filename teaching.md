@@ -1,6 +1,7 @@
---------------
-# Teaching
---------------
+---
+layout: default
+title: Teaching
+---
 
 ## 2024
 
