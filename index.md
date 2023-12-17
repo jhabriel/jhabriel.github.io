@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Welcome visitor!"
 ---
 
 ![jv](/assets/jv.png)
