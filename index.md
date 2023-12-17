@@ -4,10 +4,9 @@ layout: page
 
 ![jv](/assets/jv.png)
 
-Researcher at National University of Asunción, Polytechnic School, Paraguay. My area of research is mathematical modeling, numerical analysis, and the development of open source software to study flow, transport, and deformation in fractured and non-fractured porous media.
+Researcher at [National University of Asunción](https://www.una.py/english), [Polytechnic School](https://www.pol.una.py), Paraguay. My area of research is mathematical modeling, numerical analysis, and the development of open source software to study flow, transport, and deformation in fractured and non-fractured porous media.
 
 I'm currently working on:
-
 - Adaptive mesh refinement guided by a posteriori error analysis.
 - Modeling of flow and transport in fractured soils.
 - Numerical simulation and optimal design of filters for heavy metals.
