@@ -13,6 +13,8 @@ I'm currently working on:
 - Numerical simulation and optimal design of filters for heavy metals.
 - Development of the Krylov Subspace-Based Adaptive Solvers (KrySBAS) MATLAB toolbox.
 
+I'm funded by the [National Council of Sciences and Technology](https://www.conacyt.gov.py) through the project PRIA01-8.
+
 ---
 **Atención estudiantes de grado y posgrado**
 
