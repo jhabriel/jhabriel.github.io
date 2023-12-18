@@ -9,18 +9,26 @@ Nuestro *in-house* software [KrySBAS](https://github.com/nidtec-una/krysbas-dev)
 
 Nivel: Iniciación científica, grado.
 
-Investigadores involucrados: Juan Carlos Cabral, Gustavo Espínola.
+Investigador involucrado: Juan Carlos Cabral.
 
 ## Implementación del PD-GMRES(m) en PETSc
 
-Este trabajo dará continuidad al trabajo de grado realizado por Eduardo Gómez, Verónica Domínguez, y Lucas Vega denominado *On adaptative GMRES(m) in the PETSc package*, 2023, y consitirá en la incorporación del PD-GMRES(m) ([ver trabajo original](https://www.sciencedirect.com/science/article/pii/S037704271830030X)) en [PETSc](https://petsc.org/release/).
+Este trabajo dará continuidad al trabajo de grado realizado por Gómez, Domínguez, y Vega denominado *On adaptative GMRES(m) in the PETSc package*, 2023, y consitirá en la incorporación del PD-GMRES(m) ([ver trabajo original](https://www.sciencedirect.com/science/article/pii/S037704271830030X)) en [PETSc](https://petsc.org/release/).
 
 Nivel: Grado.
 
-Investigadores involucrado: Juan Carlos Cabral.
+Investigador involucrado: Juan Carlos Cabral.
 
-## Modelado y simulación del proceso de filtración de metales pesados
+## Modelado numérico y diseño óptimo de un filtro de remoción de metales pesados
+
+Este trabajo dará continuidad al iniciado por Romero, Casanova, Caballero, Monteiro y Schaerer denominado *Mathematical modeling of lead removal by natural hydroxyapatite from aqueous solution*, 2017 y consistirá en el modelado matemático en tres dimensiones (utilizando volúmenes finitos) del proceso de filtración de metales pesados de soluciones acuosas utilizando hidroxiapatita como material filtrante. La investigación también abordará el problema del diseño óptimo del filtro de tal manera a minimizar los costos de elaboración y maximizar la remoción de plomo.
+
+Nivel: Grado y Maestría.
+
+Investigadores involucrados: Magna Monteiro y Christian Schaerer.
 
 ## Estimación de error a posteriori y mallado adapatativo para operadores miméticos
+
+
 
 ## Two-level coupling of Stokes-Darcy flow in unsaturated fractured soils
