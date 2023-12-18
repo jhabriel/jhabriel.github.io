@@ -27,8 +27,14 @@ Nivel: Grado y Maestría.
 
 Investigadores involucrados: Magna Monteiro y Christian Schaerer.
 
-## Estimación de error a posteriori y mallado adapatativo para operadores miméticos
+## Estimación de error a posteriori y mallado adapatativo para operadores miméticos ellípticos
 
+Esta investigación se basará en la derivación de [estimador de errores del tipo funcional de Repin](https://www.degruyter.com/document/doi/10.1515/9783110203042/html) para los [operadores miméticos de Corbino y Castillo](https://www.sciencedirect.com/science/article/abs/pii/S0377042719303231?via%3Dihub). Una vez derivado los estimadores, los mismos se utilizarán en procesos de mallado adaptativo.
 
+Nivel: Maestría, Doctorado
+
+Investigadores involucrados: Christian Schaerer.
 
 ## Two-level coupling of Stokes-Darcy flow in unsaturated fractured soils
+
+
