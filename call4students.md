@@ -3,6 +3,8 @@ layout: page
 title: " "
 ---
 
+A continuación, se presenta un banco de ideas y posibles tópicos de investigación actualmente disponibles. Favor contactar a mi correo institucional jhabriel@pol.una.py en caso de estar interesado. 
+ 
 ## Desarrollo de KrySBAS
 
 Nuestro *in-house* software [KrySBAS](https://github.com/nidtec-una/krysbas-dev) que contiene una colección de solvers basados en subespacios de Krylov se encuentra en etapa de desarrollo y expansión. Los alumnos que deseen sumarse a este proyecto se incorporarán al equipo de desarrolladores. La principal tarea consistirá en la incorpación de nuevos solvers a la librería, respetando las buenas prácticas de programación (tests, cobertura, estilo de código). 
@@ -37,4 +39,9 @@ Investigadores involucrados: Christian Schaerer.
 
 ## Two-level coupling of Stokes-Darcy flow in unsaturated fractured soils
 
+This work will build upon the mathematical model presented in the article [A model for saturated-unsaturated flow with fractures acting as capillary barrier](https://essopenarchive.org/doi/full/10.22541/essoar.169111376.67806946/v1), 2023. However, instead of assuming hydrostatic equilibrarion inside the fractures, the aim of this reasearch is to accurately capture the water film flow dynamics inside the fractures. To do this, a two-level coupling between the film (Stokes flow) and the neighboring soil (Richards' equation) will have to be developed and implemented in [PorePy](https://github.com/pmgbergen/porepy).
+
+Nivel: Doctorado.
+
+La investigación contará con la colaboración de investigadores la Universidad de Bergen, Noruega.
 
