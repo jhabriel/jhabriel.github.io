@@ -10,3 +10,8 @@ title: " "
 - Cálculo univariable. Ingeniería de Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
 - Ecuaciones diferenciales. Ingeniería Química. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
 - Ecuaciones diferenciales. Ingeniería de Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
+
+## 2018
+- Métodos numéricos para ingeniería. Ingeniería Industrial. Facultad de Ciencias de la Ingeniería. Universidad Paraguayo Alemana.
+- Ecuaciones diferenciales ordinarias. Ingeniería Industrial. Facultad de Ciencias de la Ingeniería. Universidad Paraguayo Alemana.
+- Introducción a la programación con MATLAB. Ingeniería Industrial. Facultad de Ciencias de la Ingenería. Universidad Paraguayo Alemana.
