@@ -4,7 +4,6 @@ title: " "
 ---
 
 ## Current students
-- César Ramírez. M.Sc. in Computer Science. _Modeling, Simulation and Experimental Validation of Heavy Metal Removal from Aqueouos Solutions_. Universidad Nacional de Asunción . Paraguay.
 - Pedro Yegros. Undergraduate Scientific Initiation. _Battery Modeling with MATLAB_. Universidad Católica Nuestra Señora de la Asunción. Paraguay.
 - Alejandro Acevedo. Undergraduate Scientific Initiation. _Battery Modeling with MATLAB_. Universidad Católica Nuestra Señora de la Asunción. Paraguay.
 - Ruth Medina. Graduate Scientific Initiation. Numerical Analysis. Universidad Nacional de Concepción. Paraguay. 
