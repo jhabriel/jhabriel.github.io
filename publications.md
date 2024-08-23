@@ -36,6 +36,10 @@ title: " "
 
 ## Posters
 
+- Varela, J. & Espínola, G. & Cabral, J. C. & Schaerer, C. E. KrySBAS: Krylov Subspace-Based Adaptive Solver. *Presented in the 4th International Conference on Specialization Courses in Sanitation and Water Resources*. San Lorenzo, Paraguay, 2024. [link](https://www.dropbox.com/scl/fi/01ezbi6jlftudxg2jvlab/amaru_poster_krysbas.pdf?rlkey=fn5m6sh4kq8j2mjs41rrkjx2e&dl=0)
+
+- Espinola, G. & Cabral, J. C. & Varela, J. & Schaerer, C. E. Mimetic operators and iterative methods for the resolution of flow equations. *Presented in the 4th International Conference on Specialization Courses in Sanitation and Water Resources*. San Lorenzo, Paraguay, 2024. [link](https://www.dropbox.com/scl/fi/cpqkiy037c89maw6zozg3/amaru_poster_mimetic_operators.pdf?rlkey=dqmqnj8cm28v5jt43fsm3j2gr&dl=0)
+
 - Varela, J. & Ahmed, E. & Keilegavlen, E. & Nordbotten, J. M. & Radu, F. A. A posteriori error estimates for hierarchical mixed-dimensional elliptic equations. *Presented in the FORCE field trip poster session at the University Museum*. Bergen, Norway, 2023. [link](https://www.dropbox.com/scl/fi/gphrqonteipp3ktp11jup/poster_posteriori_varela.pdf?rlkey=gia5orpdjd2sc3okks16oustp&dl=0)
 
 - Varela, J. & Nogues, J. P & Schaerer, C. E. (2014). Upscaling of permeability in porous media. *Presented in the 3rd Conference of Computational Interdisciplinary Sciences of the Pan-American Association of Computational and Interdisciplinary Sciences*. San Lorenzo, Paraguay, 2014. **Winner of  best poster**. [link](http://dx.doi.org/10.13140/RG.2.2.10237.36329)
