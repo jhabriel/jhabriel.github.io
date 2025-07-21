@@ -21,7 +21,7 @@ title: " "
 
 ## Scripts 
 
-Los scripts estarán disponibles en el repositorio de GitHub: https://github.com/jhabriel/winter_school_2025 
+Los scripts del curso estan disponibles en el repositorio de GitHub: https://github.com/jhabriel/winter_school_2025 
 
 ## Bibliografía básica
 * Pinder, G. F., & Celia, M. A. (2006). Subsurface hydrology. John Wiley & Sons.
