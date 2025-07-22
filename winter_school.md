@@ -15,9 +15,10 @@ title: " "
 
 ## Notas de clase
 
+
 [Slides de presentación del curso](https://www.dropbox.com/scl/fi/erumry4ykwmcqae0qjfqa/01_intro_to_winter_school.pptx?rlkey=l8qadlp8kklhovaiffhlwhaj0&dl=0)
 
-[Fundamentos físicos del flujo en medios porosos](https://www.dropbox.com/scl/fi/kawf2lrljreaipt8ypoxl/02_dia_1_intro_a_fmp.pdf?rlkey=xoco5qdlwp32qgvb22b4nc39o&dl=0)
+[Fundamentos físicos del flujo en medios porosos](https://www.dropbox.com/scl/fi/6afms3syf9sm9ye84o5k5/02_dia_1_intro_a_fmp.pdf?rlkey=fmrg7biqctqvnbojhwo757mc3&dl=0)
 
 ## Scripts 
 
