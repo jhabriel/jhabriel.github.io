@@ -20,6 +20,8 @@ title: " "
 
 [Fundamentos físicos del flujo en medios porosos](https://www.dropbox.com/scl/fi/6afms3syf9sm9ye84o5k5/02_dia_1_intro_a_fmp.pdf?rlkey=fmrg7biqctqvnbojhwo757mc3&dl=0)
 
+[Transporte advectivo de contaminantes en medios porosos](https://www.dropbox.com/scl/fi/3on4rsk5w4rlem9q4tdki/03_dia_3_tranporste_advectivo.pdf?rlkey=qyis9b29gnif4z0ooz98kguwl&dl=0)
+
 ## Scripts 
 
 Los scripts del curso estan disponibles en el repositorio de GitHub: https://github.com/jhabriel/winter_school_2025 
