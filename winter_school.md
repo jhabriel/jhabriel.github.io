@@ -15,12 +15,13 @@ title: " "
 
 ## Notas de clase
 
-
 [Slides de presentación del curso](https://www.dropbox.com/scl/fi/erumry4ykwmcqae0qjfqa/01_intro_to_winter_school.pptx?rlkey=l8qadlp8kklhovaiffhlwhaj0&dl=0)
 
 [Fundamentos físicos del flujo en medios porosos](https://www.dropbox.com/scl/fi/6afms3syf9sm9ye84o5k5/02_dia_1_intro_a_fmp.pdf?rlkey=fmrg7biqctqvnbojhwo757mc3&dl=0)
 
 [Transporte advectivo de contaminantes en medios porosos](https://www.dropbox.com/scl/fi/3on4rsk5w4rlem9q4tdki/03_dia_3_tranporste_advectivo.pdf?rlkey=qyis9b29gnif4z0ooz98kguwl&dl=0)
+
+[Transporte advectivo-difusivo de contaminantes en medios poroso](https://www.dropbox.com/scl/fi/9hv0bt2uljivbperq197w/04_dia_4_transporte_advectivo_difusivo.pdf?rlkey=wom1eo7jfbevounouxw7ced6q&dl=0)
 
 ## Scripts 
 
