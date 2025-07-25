@@ -5,6 +5,10 @@ title: " "
 
 # Escuela de Invierno: Simulación del Transporte de Contaminantes en Medios Porosos
 
+## Certificados
+
+Los certificados del curso pueden descargase de este [enlace](https://www.dropbox.com/scl/fo/g3lvumy6m0litnltb2pri/AEwUPanI_BKD41eBJB2rspM?rlkey=mtd0vglxvr7trkp8kcmn1g3sr&dl=0).
+
 ## Programa
 
 ### Día 1: Fundamento Físicos del Flujo en Medios Porosos
