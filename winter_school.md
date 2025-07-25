@@ -27,6 +27,8 @@ Los certificados del curso pueden descargase de este [enlace](https://www.dropbo
 
 [Transporte advectivo-difusivo de contaminantes en medios poroso](https://www.dropbox.com/scl/fi/9hv0bt2uljivbperq197w/04_dia_4_transporte_advectivo_difusivo.pdf?rlkey=wom1eo7jfbevounouxw7ced6q&dl=0)
 
+[Transporte advectivo-difusivo con adsorción de contaminantes](https://www.dropbox.com/scl/fi/l3joktci1jqlqqpdp7kfz/05_dia_5_adveccion_difusion_adsorcion.pdf?rlkey=77oxro8eq07e5225484yz8cdq&dl=0)
+
 ## Scripts 
 
 Los scripts del curso estan disponibles en el repositorio de GitHub: https://github.com/jhabriel/winter_school_2025 
