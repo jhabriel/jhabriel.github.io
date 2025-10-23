@@ -21,7 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "supervision.md", title: "Supervision"}
-  - {file: "winter_school.md", title: "Curso de Invierno"}
+  - {file: "pria01_8.md", title: "PRIA01-8"}
+  # - {file: "winter_school.md", title: "Curso de Invierno"}
   #- {file: "call4students.md", title: "Call for Students"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
