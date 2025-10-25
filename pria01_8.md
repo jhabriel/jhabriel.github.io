@@ -11,7 +11,12 @@ title: " "
 * Hora: 09:00 - 13:00
 * Modalidad: Presencial
 * Lugar: NIDTEC (FPUNA)
-* Agenda: TBC
+* Entrada Libre y Gratuit
+
+## Agenda de Presentaciones
+
+<img width="688" height="724" alt="programa_workshop_01" src="https://github.com/user-attachments/assets/b680c071-2536-4180-a693-0b3abc62a44b" />
+
 
 ## Sobre los Speakers Invitados
 
