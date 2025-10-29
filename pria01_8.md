@@ -14,7 +14,7 @@ en esta página a las 08:50 am.
 
 * Fecha: Jueves 30 de octubre de 2025
 * Hora: 09:00 - 13:00
-* Modalidad: Presencial
+* Modalidad: Híbrida
 * Lugar: NIDTEC (FPUNA)
 * Entrada Libre y Gratuita
 
