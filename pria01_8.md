@@ -5,6 +5,11 @@ title: " "
 
 # Workshop de Clausura del Proyecto CONACYT PRIA01-8 de Inserción de Capital Humano Avanzado en la Academia
 
+## (NUEVO!) Evento en modalidad híbrida
+
+A pedido de la comunidad científica, el Workshop será en modalidad híbrida. El link al Google Meet se compartirá
+en esta página a las 08:50 am.
+
 ## Informaciones generales
 
 * Fecha: Jueves 30 de octubre de 2025
