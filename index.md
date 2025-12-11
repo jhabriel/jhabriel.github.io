@@ -4,17 +4,31 @@ layout: page
 
 ![jv](/assets/jv.png)
 
-Researcher at [National University of Asunción](https://www.una.py/english), [Polytechnic School](https://www.pol.una.py), Paraguay. My area of research is mathematical modeling, numerical analysis, and the development of open source software to study flow, transport, and deformation in fractured and non-fractured porous media.
+# Hi there, I'm Jhabriel 👋
 
-I'm currently working on:
-- Adaptive mesh refinement guided by a posteriori error analysis.
-- Modeling of flow and transport in fractured soils.
-- Numerical simulation and optimal design of filters for heavy metals.
-- Development of the Krylov Subspace-Based Adaptive Solvers (KrySBAS) MATLAB toolbox.
+### Assistant Professor at Polytechnic University Taiwan-Paraguay 🇵🇾🇹🇼
 
-I'm funded by the [National Council of Sciences and Technology](https://www.conacyt.gov.py) through the project PRIA01-8.
+I am a researcher bridging the gap between applied mathematics and computational engineering. My work focuses on **numerical analysis**, **mathematical modeling of transport processes in porous media**, and **open-source scientific software**.
 
 ---
-**Atención estudiantes de grado y posgrado**
 
-Actualmente estoy en busca de estudiantes paraguayos para ser supervisados. Más info sobre las líneas de investigación [aquí](call4students.md)!
+### 🔭 Current Research & Development
+I am currently focused on three core areas:
+1.  **Adaptive Mesh Refinement (AMR):** Guided by *a posteriori* error analysis to optimize computational resources.
+2.  **Fractured Porous Media:** Modeling flow and transport in complex fracture networks.
+3.  **KrySBAS Toolbox:** Developing the *Krylov Subspace-Based Adaptive Solvers* for MATLAB/OCTAVE.
+
+---
+
+### 🛠 Languages & Methods
+* **Languages:** MATLAB, Python, C++, LaTeX
+* **Methods:** Finite Element Method (FEM), Finite Volume Method (FVM), Finite Differences, Mimetic Finite Differences, Krylov Subspace Methods
+* **Tools:** Git, Overleaf, IPE
+
+---
+
+### 📚 Selected Publications & Links
+* 🎓 [Google Scholar Profile](https://scholar.google.com/citations?user=cpGVM0EAAAAJ&hl=en&oi=ao)
+* 🆔 [ORCID](https://orcid.org/0000-0003-2220-2204)
+* 🏫 [UPTP Faculty Page](https://www.uptp.edu.py/our_team/jhabriel-varela-ph-d/)
+* ✉️ [Contact Me](mailto:jvarela@uptp.edu.py)
