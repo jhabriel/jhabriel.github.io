@@ -3,6 +3,10 @@ layout: page
 title: " "
 ---
 
+## Preprints
+
+- **Varela, J**., Schaerer, C. E., Keilegavlen, E., & Berre, I. (2025). *A posteriori error estimates for mixed-dimensional Darcy flow using non-matching grids.* arXiv preprint 2512.09087. [link](https://arxiv.org/abs/2512.09087)
+
 ## Articles
 
 - **Varela, J.**, Keilegavlen, E., Nordbotten, J. M. & Radu, F. A. (2024). A model for saturated–unsaturated flow with fractures acting as capillary barriers. Vadose Zone Journal, 23(4), e20345. [link](https://doi.org/10.1002/vzj2.20345)
@@ -22,7 +26,7 @@ title: " "
 
 - Oporto, L. C., Ramírez, D. A., **Varela, J.**, & Schaerer, C. E. (2016). Analysis of contaminant transport under wind conditions on the surface of a shallow lake. Mecánica Computacional, 34(31), 2155-2163. [link](http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/5135/5067)
 
-## Technical Reports and Pre-prints
+## Technical reports
 
 - **Varela, J.** & Dummet, M. (2025). *Postprocessing of Corbino-Castillo Mimetic Difference Solutions for Error Estimation*. Reports of the Computational Science Research Center, SDSU. [link](https://www.csrc.sdsu.edu/wp-content/uploads/2025/05/CSRCR2025-03.pdf)
 
