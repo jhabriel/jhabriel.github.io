@@ -1,6 +1,6 @@
 title: "Jhabriel Varela"
 author: "JV"
-description: "2025 - National University of Asunción"
+description: "2026 - Polytechnic University Taiwan-Paraguay"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,12 +21,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "supervision.md", title: "Supervision"}
-  - {file: "pria01_8.md", title: "PRIA01-8"}
+  # - {file: "pria01_8.md", title: "PRIA01-8"}
   # - {file: "winter_school.md", title: "Curso de Invierno"}
   #- {file: "call4students.md", title: "Call for Students"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jhabriel@pol.una.py"}
+  - {title: Mail, icon: envelope, url: "mailto:jvarela@uptp.edu.py"}
   - {title: GitHub, url: "https://github.com/jhabriel"}
   - {title: ResearchGate, url: "https://www.researchgate.net/profile/Jhabriel-Varela"}
   - {title: Google Scholar, url: "https://scholar.google.com/citations?user=cpGVM0EAAAAJ&hl=en"}
