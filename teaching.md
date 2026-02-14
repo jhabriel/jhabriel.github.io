@@ -3,38 +3,46 @@ layout: page
 title: " "
 ---
 
+## 2026
+
+### Undergraduate
+
+- Calculus II, Information Engineering and Industrial Engineering, Polytechnic University Taiwan–Paraguay.
+- Fluid Mechanics, Electromechanical Engineering and Civil Engineering, Polytechnic University Taiwan–Paraguay.
+- Linear Algebra, Information Engineering and Industrial Engineering, Polytechnic University Taiwan–Paraguay.
+
 ## 2025
 
-### Posgrado
+### Graduate
 
-- Métodos Numéricos. Doctorado y Maestría en Ciencias de la Computación. Facultad Politécnica, Universidad Nacional de Asunción.
+- Numerical Methods. PhD and Master's Program in Computer Science. Polytechnic School, National University of Asunción.
 
-### Grado
+### Undergraduate
 
-- Álgebra Lineal. Facultad de Ingeniería, Universidad Nacional de Asunción.
-- Ecuaciones Diferenciales. Ingeniería Química e Ingenería en Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
-- Cálculo numérico. Ingeniería Industrial. Universidad Americana.
-- Física 1, Ingeniería Electromecánica e Ingeniería Civil. Universidad Politécnica Taiwán-Paraguay
-- Cálculo 1, Ingenería Electromecánica, Ingeniería Civil, Ingeniería Informática e Ingeniería Industrial. Universidad Politécnica Taiwán-Paraguay
+- Linear Algebra. School of Engineering, National University of Asunción.
+- Differential Equations. Chemical Engineering and Food Engineering. School of Chemical Sciences, National University of Asunción.
+- Numerical Calculus. Industrial Engineering. Universidad Americana.
+- Physics I, Electromechanical Engineering and Civil Engineering. Polytechnic University Taiwan–Paraguay.
+- Calculus I, Electromechanical Engineering, Civil Engineering, Information Engineering, and Industrial Engineering. Polytechnic University Taiwan–Paraguay.
 
 ## 2024
 
-### Posgrado
+### Graduate
 
-- Flujo en Medios Porosos. Doctorado y Maestría en Ciencias de la Computación. Facultad Politécnica, Universidad Nacional de Asunción.
-- Métodos numéricos. Doctorado y Maestría en Ciencias de la Computación. Facultad Politécnica, Universidad Nacional de Asunción.
+- Flow in Porous Media. PhD and Master's Program in Computer Science. Polytechnic School, National University of Asunción.
+- Numerical Methods. PhD and Master's Program in Computer Science. Polytechnic School, National University of Asunción.
 
-### Grado
+### Undergraduate
 
-- Cálculo numérico. Ingeniería Industrial. Universidad Americana.
-- Cálculo numérico. Ingeniería Química e Ingeniería en Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
-- Cálculo 1. Ingeniería Química e Ingeneriá en Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
-- Ecuaciones diferenciales. Ingeniería Química e Ingeniería en Alimentos. Facultad de Ciencias Químicas, Universidad Nacional de Asunción.
+- Numerical Calculus. Industrial Engineering. American University.
+- Numerical Calculus. Chemical Engineering and Food Engineering. School of Chemical Sciences, National University of Asunción.
+- Calculus I. Chemical Engineering and Food Engineering. School of Chemical Sciences, National University of Asunción.
+- Differential Equations. Chemical Engineering and Food Engineering. School of Chemical Sciences, National University of Asunción.
 
 ## 2018
 
-### Grado
+### Undergraduate
 
-- Métodos numéricos para ingeniería. Ingeniería Industrial. Facultad de Ciencias de la Ingeniería. Universidad Paraguayo Alemana.
-- Ecuaciones diferenciales ordinarias. Ingeniería Industrial. Facultad de Ciencias de la Ingeniería. Universidad Paraguayo Alemana.
-- Introducción a la programación con MATLAB. Ingeniería Industrial. Facultad de Ciencias de la Ingenería. Universidad Paraguayo Alemana.
+- Numerical Methods for Engineering. Industrial Engineering. School of Engineering Sciences. Paraguayan–German University.
+- Ordinary Differential Equations. Industrial Engineering. School of Engineering Sciences. Paraguayan–German University.
+- Introduction to Programming with MATLAB. Industrial Engineering. School of Engineering Sciences. Paraguayan–German University.
