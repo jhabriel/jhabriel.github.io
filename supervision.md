@@ -9,6 +9,8 @@ title: " "
 - **Santiago Castro**. Chemical Engineering Student. _Environmental Subsurface Hydrology_. Chemical Sciences School, National University of Asunción, Paraguay.
 - **Alejandro Bordas**. Civil Engineering Student. _Environmental Subsurface Hydrology_. Polytechnic Universtiy Taiwan-Paraguay, Paraguay.
 - **Edna Irala**. Information Engineering Student. _Numerical Open Source Software Development_. Polytechnic Univeristy Taiwan-Paraguay, Paraguay.
+- **Oscar Barrios**. Industrial Engineering Student. _Heat Transfer with Mimetic Differences_. Polytechnic Univeristy Taiwan-Paraguay, Paraguay.
+- **Hugo Tippach**. Information Engineering Student. _Image Processing with Finite Differences_. Polytechnic Univeristy Taiwan-Paraguay, Paraguay.
 
 ## Former students
 
