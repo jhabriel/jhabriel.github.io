@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv_english_jv_20260318.pdf", title: "CV"}
+  - {url: "https://www.dropbox.com/scl/fi/2bhmolrjdvs3f6ft87gpj/cv_english_jv_20260318.pdf?rlkey=68c3f225minirs3596fb1di39&dl=0", title: "CV"}
   - {file: "publications.md", title: "Publications"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
